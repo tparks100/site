@@ -21,8 +21,6 @@ backend:
 # local_backend: true
 
 ##
-##
-
 media_folder: _img/uploads
 public_folder: uploads
 publish_mode: editorial_workflow
